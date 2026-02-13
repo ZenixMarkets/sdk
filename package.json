@@ -1,0 +1,19 @@
+{
+  "name": "zenix",
+  "version": "1.0.0",
+  "description": "Pro-grade terminal powered by the Percolator Engine. Formally verified.",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
