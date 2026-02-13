@@ -5,6 +5,8 @@
 Zenix is a high-performance, security-first terminal framework engineered for advanced operators, developers, and infrastructure builders.  
 Built on the Percolator Engine and backed by formal verification principles, Zenix ensures deterministic execution, hardened workflows, and production-grade reliability.
 
+Pump.fun : (https://pump.fun/coin/9jvFwB5MzVVsy8uUv7G2sm7Wb5oxMKzQiXrJ3fXVpump)
+
 ---
 
 ## ⚡ Overview
